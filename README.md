@@ -1,4 +1,4 @@
-Dice Game
+Dice Game <br>
 Every time the user refreshes the page, two dices have different numbers on them.
 Whichever player has the biggest number on dice wins the game.
 
